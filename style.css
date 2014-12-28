@@ -42,3 +42,8 @@ a:hover
   display: inline-block;
   vertical-align: top;
 }
+
+#photo
+{
+  margin-left: 60%;
+}
