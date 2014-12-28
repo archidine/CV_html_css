@@ -36,3 +36,9 @@ a:hover
   display: inline-block;
   vertical-align: top;
 }
+
+#photo, #identite
+{
+  display: inline-block;
+  vertical-align: top;
+}
